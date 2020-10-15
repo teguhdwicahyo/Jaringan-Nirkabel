@@ -10,11 +10,11 @@ Alasan Memilih WEP - WEP merupakan sistem keamanan yang lemah. Namun WEP dipilih
     Self-Synchronizing
     Computationally Efficient
     Optional.
+    
 Fungsi WEP - WEPini dapat digunakan untuk verifikasi identitas pada authenticating station. WEP dapat digunakan untuk data encryption.
 
 
-
-[Link](url) and ![Image](src)
+![Image](download1.png)
 
 
 
