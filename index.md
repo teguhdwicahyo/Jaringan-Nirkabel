@@ -16,5 +16,9 @@ Fungsi WEP - WEPini dapat digunakan untuk verifikasi identitas pada authenticati
 
 ![Image](download1.png)
 
+Service Set Identitas (SSID)
+    Memungkinkan suatu jaringan WLAN dipisahkan dalam beberapa network yang
+berbeda. Pengenal ini diprogram dalam access point, sehingga semua klien yang akan mengakses jaringan ini harus dikonfigurasi menggunakan pengenal SSID yang sesuai.
+
 
 
