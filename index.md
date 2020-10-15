@@ -13,12 +13,13 @@ Alasan Memilih WEP - WEP merupakan sistem keamanan yang lemah. Namun WEP dipilih
     
 Fungsi WEP - WEPini dapat digunakan untuk verifikasi identitas pada authenticating station. WEP dapat digunakan untuk data encryption.
 
-
-![Image](download1.png)
-
 ### Service Set Identitas (SSID)
   Memungkinkan suatu jaringan WLAN dipisahkan dalam beberapa network yang
 berbeda. Pengenal ini diprogram dalam access point, sehingga semua klien yang akan mengakses jaringan ini harus dikonfigurasi menggunakan pengenal SSID yang sesuai.
+
+![Image](download1.png)
+
+
 
 
 
